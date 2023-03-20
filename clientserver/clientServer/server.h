@@ -1,7 +1,3 @@
-//
-// Created by jollu on 3/2/22.
-//
-
 #ifndef CLIENTSERVER_SERVER_H
 #define CLIENTSERVER_SERVER_H
 
