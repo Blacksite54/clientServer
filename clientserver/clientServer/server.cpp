@@ -1,7 +1,3 @@
-//
-// Created by jollu on 3/2/22.
-//
-
 #include "server.h"
 
 #include <sys/socket.h>
