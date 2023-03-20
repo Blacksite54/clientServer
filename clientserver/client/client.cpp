@@ -1,7 +1,3 @@
-//
-// Created by jollu on 3/2/22.
-//
-
 #include "client.h"
 #include <Winsock2.h>
 #include <winsock.h>
